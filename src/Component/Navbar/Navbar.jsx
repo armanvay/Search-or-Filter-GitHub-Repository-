@@ -5,7 +5,7 @@ import React from "react";
 
 const Navbar = () => {
   const pathname = usePathname();
-  console.log("pathname", pathname);
+//   console.log("pathname", pathname);
   const links = (
     <>
       <li>
